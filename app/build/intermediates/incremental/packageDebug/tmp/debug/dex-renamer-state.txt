@@ -1,0 +1,4 @@
+#Sun Apr 02 13:53:22 PDT 2023
+base.0=/Users/spartan/Downloads/AndroidDataStorage/AndroidDataStorage/app/build/intermediates/dex/debug/mergeDexDebug/out
+renamed.0=classes.dex
+path.0=classes.dex
